@@ -20,7 +20,7 @@ HAHA Wallet BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone [https://github.com/0x-Disciple/HahaWallet-BOT.git}
+   git clone https://github.com/0x-Disciple/HahaWallet-BOT.git
    ```
    ```bash
    cd HahaWallet-BOT
